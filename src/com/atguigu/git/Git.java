@@ -10,6 +10,8 @@ public class Git {
         System.out.println("master test12!");
         System.out.println("Hello hot-fix test1!!");
         System.out.println("test");
+        System.out.println("edit by test");
+
 
     }
 }
